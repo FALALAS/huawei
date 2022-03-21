@@ -39,7 +39,6 @@ struct SiteNode
     int timeT = 0; //高占用时间
 } siteArr[MAX_SITE];
 /**
- *
  * 客户节点
  */
 struct ClientNode
